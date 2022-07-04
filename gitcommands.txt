@@ -4,3 +4,4 @@ git Add -A
 git commit -m "msg"
 git remote -v
 git remote add "hub"
+git push "hub" master
